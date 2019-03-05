@@ -1,5 +1,5 @@
 # sprintboot-demo-app
-### Spring boot application with CRUD operation in Cassandra.
+### Spring boot application with CRUD operations in Cassandra.
 
 #### How to run the application?
 
