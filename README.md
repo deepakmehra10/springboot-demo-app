@@ -2,6 +2,12 @@
 # sprintboot-demo-app
 ### Spring boot application with CRUD operations in Cassandra.
 
+#### Pre-requisites
+
+ 1. Java
+ 2. Cassandra
+ 3. Maven
+
 #### How to run the application?
 
     mvn spring-boot:run
