@@ -1,5 +1,5 @@
 
-# sprintboot-demo-app
+# springboot-demo-app
 ### Spring boot application with CRUD operations in Cassandra.
 
 #### Pre-requisites
