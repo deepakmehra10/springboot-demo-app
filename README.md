@@ -55,3 +55,6 @@ Application runs on port 5000 by default and that can be changed to desired port
     	"name":"Deepak",
     	"salary":60000
     }
+
+
+ **Note -** You need to have Cassandra running on port 9042 before you start the application.
